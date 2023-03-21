@@ -24,7 +24,7 @@
       name: "{{ instance_name }}"
       tags:
         created_by: "{{ created_by }}"
-        Owner: "{{ Owner }}"
+        Owner: "{{ babatunde }}"
         App_Name: "{{ App_Name }}"
         Cost_Center: "{{ Cost_Center }}"
         Business_Unit: "{{ Business_Unit }}"
